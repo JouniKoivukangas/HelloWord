@@ -1,2 +1,2 @@
 # HelloWord
-Tämä on tutoriaalin mukaan tehty tietovarasto
+Jounin tekemät muutokset ja tässä lisää! Ja vielä on tässä vai mitä
